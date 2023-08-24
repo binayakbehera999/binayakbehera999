@@ -7,11 +7,11 @@
 
 ```javascript
 const binayak = {
-    code: [Javascript, C/C++],
+    code: ["Javascript", "C/C++"],
     askMeAbout: ["web dev", "tech", "ML", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize", ReactJS]
+            css: ["bootstrap", "materialize","ReactJS"]
         },
         backEnd: {
             js: ["firebase", "node"]
