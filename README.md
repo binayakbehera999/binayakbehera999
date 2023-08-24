@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my GitHub! I'm Binayak Behera, full stack developer
 
-<!--
-**binayakbehera999/binayakbehera999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Linkedin: amadoabaca](https://img.shields.io/badge/-amado-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/amado-abaca-59845a1b4/)](https://www.linkedin.com/in/binayak-behera/)
+![](https://visitor-badge.glitch.me/badge?page_id=amadoabaca.amadoabaca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### aboutMe.js
+
+```javascript
+const binayak = {
+    code: [Javascript, C/C++],
+    askMeAbout: ["web dev", "tech", "ML", "music", "coffee"],
+    technologies: {
+        frontEnd: {
+            css: ["bootstrap", "materialize", ReactJS]
+        },
+        backEnd: {
+            js: ["firebase", "node"]
+        }        
+    }
+};
+```
+
+<p align="center">
+Check out my repos ⬇️  
+</p>
