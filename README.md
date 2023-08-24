@@ -15,7 +15,11 @@ const binayak = {
         },
         backEnd: {
             js: ["firebase", "node"]
-        }        
+        },
+        db: {
+            NoSql: ["mongoDb"],
+            sql: ["MySQL", "PostgreSQL"],
+        },        
     }
 };
 ```
