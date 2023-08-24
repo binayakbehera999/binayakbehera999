@@ -22,5 +22,5 @@ const binayak = {
 ```
 
 <p align="center">
-Check out my repos ⬇️  
+Something cool in store for you ⬇️  
 </p>
