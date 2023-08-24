@@ -1,7 +1,7 @@
 ## Hi there 👋 Welcome to my GitHub! I'm Binayak Behera, full stack developer
 
 
-[![Linkedin: binayakbehera](https://img.shields.io/badge/-binayak-behera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/binayak-behera/)](https://www.linkedin.com/in/binayak-behera/)
+[![Linkedin: binayakbehera](https://img.shields.io/badge/-binayakbehera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/binayak-behera/)](https://www.linkedin.com/in/binayak-behera/)
 
 ### aboutMe.js
 
